@@ -1,0 +1,1 @@
+[Fatal Error] Variants.pas(1024): Program or unit 'Variants' recursively uses itself
